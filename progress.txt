@@ -1,0 +1,79 @@
+
+PROGRESS NOTES 
+
+Please update under your section whenever you've contributed to the project. 
+This file will help us keep track of the project, determine who to consult on 
+specific jobs, and to balance workload.
+** PLEASE DATE YOUR NOTES **
+
+/////////////////////////////////////////////////////////////////////////////////
+---------------------------------------------------------------------------------
+RISHITA
+---------------------------------------------------------------------------------
+# 03.17.17
+x created git repository at https://github.com/r2gudapa/other-main-sequences 
+x added github integration to slack
+x added files to git repository: README.md, science.txt, header.txt
+
+# 03.19.17
+x added constants.py to repository
+x updated header.txt with newly defined constants
+x created code-init.py; typed up some formulas from the project description
+
+---------------------------------------------------------------------------------
+/////////////////////////////////////////////////////////////////////////////////
+---------------------------------------------------------------------------------
+CLIFF
+---------------------------------------------------------------------------------
+
+
+
+---------------------------------------------------------------------------------
+/////////////////////////////////////////////////////////////////////////////////
+---------------------------------------------------------------------------------
+NAZBAN
+---------------------------------------------------------------------------------
+# 03.21.17
+x Created code-init-naz.py
+x Added constant X/Y/Z in constants.py
+x Converted all ints to float
+x Fixed Initial Conditions in the odeint intput y0
+x Re-ordered initial equations
+x Normalized graphs (M is 4 times larger, L is 100 times larger)
+x Added surface value of DE solns.
+x Inversed kappa.
+
+x NOTE: p graph shape looks good, rest are off.
+
+---------------------------------------------------------------------------------
+/////////////////////////////////////////////////////////////////////////////////
+---------------------------------------------------------------------------------
+CALEB
+---------------------------------------------------------------------------------
+
+
+
+---------------------------------------------------------------------------------
+/////////////////////////////////////////////////////////////////////////////////
+---------------------------------------------------------------------------------
+HIRAL
+---------------------------------------------------------------------------------
+#03.21.2017
+x Created SingleStar.py
+x Defined a class to solve for one star
+x created functions for each function
+
+#03.22.2017
+x Implemented RK4 and the optical deph cut it seems to be working with the example star of p_c = 6e3 and T_c = 1e8
+x Still have to "proof read" to make sure I didnt make errors in defining the equations
+
+#03.23.2017
+x proof read the code
+x added other graphs (they look  beautiful!! :'))
+
+NOTE: Next to do list??
+x NEED TO ADD ADAPTIVE STEP SIZES FOR RK4
+x NEED TO ADD BISECTION TO OPTIMIZE p_c
+
+---------------------------------------------------------------------------------
+/////////////////////////////////////////////////////////////////////////////////
